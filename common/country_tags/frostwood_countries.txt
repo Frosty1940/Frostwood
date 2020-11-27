@@ -1,0 +1,16 @@
+TST = "countries/Test.txt"
+REG = "countries/Tempore.txt"			#Republic of Regnum
+SRE = "countries/Elf.txt"				#Nationalist Serensia
+HAN = "countries/Nanyang.txt"			#Iehan State
+NOR = "countries/Nordland.txt"			#Nordland Federative Socialist Republic
+ORC = "countries/Orc.txt"				#Triborc Kon Grigan
+TEM = "countries/Tempore.txt"			#Confederation of Holy Temporian Empire
+NAM = "countries/Nanyang.txt"			#Republic of Nayang
+RAM = "countries/Nanyang.txt"			#Rambodia
+HOR = "countries/Horsehead.txt"			#Horsehead Union
+PER = "countries/Perb.txt"				#Perb
+YZE = "countries/Tempore.txt"			#State of Yuzern-Vignette
+LID = "countries/Lidderdonia.txt"		#Kingdom of Lidderdonia
+ISE = "countries/Horsehead.txt"			#Ieselonia
+DEH = "countries/Deheia.txt"			#Deheia
+AQL = "countries/Tempore.txt"			#Ordensstaat Aquillia
