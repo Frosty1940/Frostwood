@@ -1,0 +1,18 @@
+state={
+	id=74
+	name="STATE_74"
+	history = {
+		owner = SRE
+		add_core_of = SRE
+		add_claim_by = TEM
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		536 1029 
+	}
+	manpower=7487
+	buildings_max_level_factor=1.000
+	state_category = town
+}

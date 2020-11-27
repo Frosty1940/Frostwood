@@ -1,0 +1,21 @@
+
+state={
+	id=91
+	name="STATE_91"
+	history = {
+		owner = SRE
+		add_core_of = SRE
+		add_claim_by = TEM
+		buildings = {
+			infrastructure = 2
+			4288 = { naval_base = 1 }
+			4289 = { naval_base = 1 }
+		}
+	}
+	provinces={
+		4287 4288 4289 
+	}
+	manpower=8327
+	buildings_max_level_factor=1.000
+	state_category = town
+}

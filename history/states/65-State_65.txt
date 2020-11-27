@@ -1,0 +1,20 @@
+state={
+	id=65
+	name="STATE_65"
+	history = {
+		owner = SRE
+		add_core_of = SRE
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 4
+			arms_factory = 4
+			dockyard = 2
+		}
+	}
+	provinces={
+		164 289 750 813 1106 1439 1569 1648 2072 2192 2398 2561 2653 2679 3272 3289 3300 3305 3321 3332 
+	}
+	manpower=204313
+	buildings_max_level_factor=1.000
+	state_category = large_city
+}

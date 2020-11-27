@@ -1,0 +1,18 @@
+
+state={
+	id=5
+	name="STATE_5"
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		628 1213 1302 1552 1716 2702 
+	}
+	manpower=6513
+	buildings_max_level_factor=1.000
+	state_category = town
+}

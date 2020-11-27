@@ -1,0 +1,23 @@
+
+state={
+	id=177
+	name="STATE_177"
+
+	history={
+		owner = REG
+		add_core_of = LID
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		168 262 285 368 411 450 552 635 670 736 1132 1142 1227 1343 1389 1408 1532 1572 1782 2157 2465 2470 2500 2654 3400 3406 3408 3412 3413 3418 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+	impassable = yes
+}

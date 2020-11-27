@@ -1,0 +1,21 @@
+state={
+	id=85
+	name="STATE_85"
+	history = {
+		owner = TEM
+		add_core_of = TEM
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			arms_factory = 2
+			dockyard = 3
+			1615 = { naval_base = 7 coastal_bunker = 1 }
+		}
+	}
+	provinces={
+		1543 1615 3365 
+	}
+	manpower=651275
+	buildings_max_level_factor=1.000
+	state_category = large_city
+}

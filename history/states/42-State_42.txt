@@ -1,0 +1,17 @@
+state={
+	id=42
+	name="STATE_42"
+	history = {
+		owner = TEM
+		add_core_of = TEM
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		2 74 177 435 515 675 735 800 843 848 899 1037 1104 1141 1156 1248 1340 1582 1604 1680 1699 1806 1811 1912 2005 2031 2055 2074 2114 2447 2983 3010 3045 3065 3087 3090 3097 3108 3110 3121 3140 3165 3172 3220 3235 3264 3301 
+	}
+	manpower=108
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

@@ -1,0 +1,31 @@
+capital = 68
+set_research_slots = 4
+
+### Country Leaders ###
+create_country_leader = {
+	name = "Jean Paulieno"
+	#desc = "POLITICS_KARL_RADEK_DESC"
+	#picture = "gfx/leaders/GER/GER_wilhelm_ii.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1910.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	fascism = 0
+	communism = 0
+	democratic = 100
+	neutrality = 0
+}
+
+add_ideas = {
+	limited_conscription
+	partial_economic_mobilisation
+	low_economic_mobilisation
+}

@@ -1,0 +1,20 @@
+state={
+	id=36
+	name="STATE_36"
+	history = {
+		owner = SRE
+		add_core_of = SRE
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+		}
+	}
+	provinces={
+		228 746 1342 2982 
+	}
+	manpower=13077
+	buildings_max_level_factor=1.000
+	state_category = town
+}

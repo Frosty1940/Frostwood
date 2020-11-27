@@ -1,0 +1,21 @@
+
+state={
+	id=83
+	name="STATE_83"
+	history = {
+		owner = TEM
+		add_core_of = TEM
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 2
+		}
+	}
+	provinces={
+		486 722 773 806 916 1094 1293 1456 1487 1721 1772 1989 2033 2203 2382 2385 2410 2606 2612 3348 3353 3354 3358 3360 3363 3366 3370 3373 3375 3377 3378 3379 3380 3381 3382 3383 3385 
+	}
+	manpower=287461
+	buildings_max_level_factor=1.000
+	state_category = city
+}

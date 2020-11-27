@@ -1,0 +1,18 @@
+state={
+	id=57
+	name="STATE_57"
+	history = {
+		owner = TEM
+		add_core_of = TEM
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		147 192 322 489 776 842 866 924 933 1155 1255 1262 1376 1480 1526 1651 1734 1887 1950 2083 2123 2168 2185 2198 2344 2366 2377 2411 2437 2518 2578 2610 2635 3152 3161 3184 3212 3221 3223 3226 3228 3230 3244 3251 3253 3256 3262 3265 3271 3278 3281 3290 3308 3312 3319 3328 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category = large_town
+}

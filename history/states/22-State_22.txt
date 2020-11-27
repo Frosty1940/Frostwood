@@ -1,0 +1,21 @@
+state={
+	id=22
+	name="STATE_22"
+	history = {
+		owner = SRE
+		add_core_of = SRE
+		add_core_of = REG
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 4
+			arms_factory = 2
+			dockyard = 3
+		}
+	}
+	provinces={
+		239 1671 2415 2744 2764 
+	}
+	manpower=67131
+	buildings_max_level_factor=1.000
+	state_category = city
+}

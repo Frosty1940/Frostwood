@@ -1,0 +1,19 @@
+
+state={
+	id=27
+	name="STATE_27"
+	history = {
+		owner = REG
+		add_core_of = REG
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		158 160 231 423 467 518 744 956 995 1093 1209 1296 1334 1352 1396 1429 1440 1608 1652 1676 1881 1949 1981 1986 2057 2097 2122 2522 2531 2546 2564 2874 2881 2898 2904 2906 2911 2912 2914 2918 2923 2927 2933 2941 2942 2953 2956 2960 2961 2971 2972 2974 2986 2988 2997 
+	}
+	manpower=7231
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

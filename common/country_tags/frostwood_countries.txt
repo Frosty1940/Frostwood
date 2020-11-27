@@ -1,5 +1,5 @@
 TST = "countries/Test.txt"
-REG = "countries/Tempore.txt"			#Republic of Regnum
+REG = "countries/Tempore.txt"			#Kingdom of Regnum
 SRE = "countries/Elf.txt"				#Nationalist Serensia
 HAN = "countries/Nanyang.txt"			#Iehan State
 NOR = "countries/Nordland.txt"			#Nordland Federative Socialist Republic

@@ -1,0 +1,24 @@
+
+state={
+	id=166
+	name="STATE_166"
+	history = {
+		owner = SRE
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			1153 = {
+				naval_base = 3
+			}
+		}
+	}
+	provinces={
+		1153 3390 3391 
+	}
+	manpower=13241
+	buildings_max_level_factor=1.000
+	state_category = city
+}

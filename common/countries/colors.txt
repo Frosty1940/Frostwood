@@ -25,8 +25,8 @@ ORC = {
 	color_ui = rgb { 254 204 137 }
 }
 TEM = {
-	color = rgb { 232 98 98 }
-	color_ui = rgb { 232 98 98 }
+	color = rgb { 184 57 57 }
+	color_ui = rgb { 184 57 57 }
 }
 NAM = {
 	color = rgb { 241 161 161 }

@@ -1,0 +1,23 @@
+state={
+	id=108
+	name="STATE_108"
+	history = {
+		owner = REG
+		add_core_of = LID
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			3397 = {
+				naval_base = 3
+			}
+		}
+	}
+	provinces={
+		962 1796 1925 3397 
+	}
+	manpower=13214
+	buildings_max_level_factor=1.000
+	state_category = city
+}

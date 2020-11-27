@@ -1,0 +1,17 @@
+state={
+	id=46
+	name="STATE_46"
+	history = {
+		owner = SRE
+		add_core_of = SRE
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		127 206 219 268 315 328 484 575 890 927 1056 1089 1183 1415 1500 1507 1594 1738 1835 1847 1934 2278 2426 2433 3081 3083 3109 3180 3211 3234 3313 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

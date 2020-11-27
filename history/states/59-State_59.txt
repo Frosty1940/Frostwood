@@ -1,0 +1,18 @@
+state={
+	id=59
+	name="STATE_59"
+	history = {
+		owner = TEM
+		add_core_of = TEM
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		316 330 465 1019 1557 1678 1879 1993 2176 2473 2523 2544 3162 3174 3175 3176 3181 3194 3195 3198 3203 3214 3224 3239 
+	}
+	manpower=460000
+	buildings_max_level_factor=1.000
+	state_category = large_city
+}

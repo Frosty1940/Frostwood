@@ -1,0 +1,22 @@
+state={
+	id=66
+	name="STATE_66"
+	history = {
+		owner = TEM
+		add_core_of = TEM
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 2
+			dockyard = 5
+			893 = { naval_base = 4 coastal_bunker = 1 }
+			3311 = { naval_base = 5 coastal_bunker = 1 }
+		}
+	}
+	provinces={
+		174 766 777 783 893 1200 1224 1482 1614 1728 1818 1837 1923 1924 1956 2018 2066 2121 2200 2318 2413 2566 2604 2688 3227 3238 3247 3259 3273 3274 3277 3287 3288 3295 3299 3302 3306 3310 3311 3314 3316 3324 3371 3372 
+	}
+	manpower=1010154
+	buildings_max_level_factor=1.000
+	state_category = city
+}

@@ -1,0 +1,18 @@
+state={
+	id=72
+	name="STATE_72"
+	history = {
+		owner = SRE
+		add_core_of = SRE
+		add_claim_by = TEM
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		531 
+	}
+	manpower=6462
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

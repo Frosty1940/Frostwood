@@ -1,0 +1,30 @@
+
+state={
+	id=17
+	name="STATE_17"
+
+	history={
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 4
+			arms_factory = 3
+			dockyard = 4
+			2753 = {
+				naval_base = 7
+				coastal_bunker = 4
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		13 62 308 910 926 1143 1541 2732 2753 
+	}
+	manpower=135103
+	buildings_max_level_factor=1.000
+	state_category=city
+}

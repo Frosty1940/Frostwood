@@ -2,12 +2,12 @@ bookmarks = {
 	bookmark = {
 		name = "GATHERING_STORM_NAME"
 		desc = "GATHERING_STORM_DESC"
-		date = 1936.1.1.12
+		date = 3927.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "TST"
+		default_country = "TEM"
 		default = yes
 		
-		"TST"={
+		"TEM"={
 			history = "OTHER_GATHERING_STORM_DESC"
 		}
 		effect = {

@@ -1,0 +1,20 @@
+state={
+	id=69
+	name="STATE_69"
+	history = {
+		owner = TEM
+		add_core_of = TEM
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 2
+			dockyard = 3
+		}
+	}
+	provinces={
+		5 110 301 663 1179 1688 1856 1922 2177 2189 2309 2335 2560 3280 3285 3296 3304 3307 3309 3318 3331 3333 3334 3344 
+	}
+	manpower=304754
+	buildings_max_level_factor=1.000
+	state_category = city
+}

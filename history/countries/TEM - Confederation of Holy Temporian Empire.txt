@@ -1,0 +1,33 @@
+﻿capital = 68
+set_research_slots = 4
+
+create_faction = "Holy Temporian Empire"
+
+### Country Leaders ###
+create_country_leader = {
+	name = "Wihelm II"
+	#desc = "POLITICS_KARL_RADEK_DESC"
+	picture = "gfx/leaders/GER/GER_wilhelm_ii.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1910.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 0
+	communism = 0
+	democratic = 0
+	neutrality = 100
+}
+
+add_ideas = {
+	limited_conscription
+	partial_economic_mobilisation
+	low_economic_mobilisation
+}

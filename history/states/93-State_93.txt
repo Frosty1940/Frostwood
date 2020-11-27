@@ -1,0 +1,21 @@
+
+state={
+	id=93
+	name="STATE_93"
+	history = {
+		owner = SRE
+		add_core_of = SRE
+		add_claim_by = TEM
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+		}
+	}
+	provinces={
+		362 1240 1963 
+	}
+	manpower=11247
+	buildings_max_level_factor=1.000
+	state_category = large_town
+}

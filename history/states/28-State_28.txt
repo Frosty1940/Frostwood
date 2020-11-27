@@ -1,0 +1,18 @@
+state={
+	id=28
+	name="STATE_28"
+	history = {
+		owner = SRE
+		add_core_of = SRE
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	provinces={
+		26 64 119 126 135 169 253 457 476 512 551 672 753 815 870 905 941 1131 1164 1171 1292 1299 1337 1495 1675 1695 1859 2013 2365 2388 2421 2674 2806 2825 2862 2903 2952 3005 3137 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+	impassable = yes
+}

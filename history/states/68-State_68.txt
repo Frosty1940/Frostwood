@@ -1,0 +1,22 @@
+state={
+	id=68
+	name="STATE_68"
+	history={
+		victory_points = {
+			2014 50
+		}
+		owner = TEM
+		add_core_of = TEM
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+			arms_factory = 3
+		}
+	}
+	provinces={
+		1523 1545 2014 2552 2689 3242 
+	}
+	manpower=2076200
+	buildings_max_level_factor=1.000
+	state_category = metropolis
+}

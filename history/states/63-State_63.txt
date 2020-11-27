@@ -1,0 +1,18 @@
+state={
+	id=63
+	name="STATE_63"
+	provinces={
+		284 1115 1658 3246 
+	}
+	history = {
+		owner = SRE
+		add_core_of = SRE
+		add_claim_by = TEM
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	manpower=3441
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

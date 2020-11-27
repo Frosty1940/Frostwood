@@ -1,0 +1,19 @@
+
+state={
+	id=14
+	name="STATE_14"
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	provinces={
+		191 412 686 696 887 1163 1420 1452 1464 1927 2012 2328 2337 2649 2703 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+	impassable = yes
+}

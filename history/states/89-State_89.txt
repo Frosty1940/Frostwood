@@ -1,0 +1,20 @@
+
+state={
+	id=89
+	name="STATE_89"
+	history = {
+		owner = SRE
+		add_core_of = PER
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			dockyard = 1
+		}
+	}
+	provinces={
+		906 1090 1193 2397 
+	}
+	manpower=1324
+	buildings_max_level_factor=1.000
+	state_category = town
+}

@@ -1,0 +1,19 @@
+state={
+	id=41
+	name="STATE_41"
+	history = {
+		owner = SRE
+		add_core_of = SRE
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			dockyard = 1
+		}
+	}
+	provinces={
+		38 60 97 470 901 1133 1137 1169 1729 2148 2235 2253 2290 2478 2481 2978 2994 3004 3013 3014 3038 3049 3061 3062 3069 3070 3076 3103 
+	}
+	manpower=7432
+	buildings_max_level_factor=1.000
+	state_category = rural
+}
