@@ -1,0 +1,26 @@
+name="Frostwood"
+replace_path="common/countries"
+replace_path="common/country_tag_aliases"
+replace_path="common/country_tags"
+replace_path="events"
+replace_path="history/states"
+replace_path="history/countries"
+replace_path="history/units"
+replace_path="common/ai_strategy_plans"
+replace_path="common/bookmarks"
+replace_path="common/national_focus"
+replace_path="common/on_actions"
+replace_path="common/scripted_localisation"
+replace_path="common/scripted_effects"
+replace_path="map/strategicregions"
+replace_path="map/supplyareas"
+tags={
+	"Map"
+	"Utilities"
+}
+picture=""
+version="alpha"
+supported_version="1.10.*"
+# USE THIS LINE WHEN YOU PUT THIS MOD ON YOUR COMPUTER FIRST TIME
+# THE DIRECTORY IS NOT FORCED TO PLACE IN HEARTS OF IRON IV MODS, BUT YOU SHOULD ADAPT THIS LINE AS YOUR MOD DICRETORY
+#path="C:/Users/[USERNAME]/Documents/Paradox Interactive/Hearts of Iron IV/mod/Frostwood"
