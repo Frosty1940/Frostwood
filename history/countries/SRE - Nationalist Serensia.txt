@@ -1,4 +1,4 @@
-capital = 68
+capital = 65
 set_research_slots = 4
 
 create_faction = axis
@@ -6,8 +6,8 @@ create_faction = axis
 ### Country Leaders ###
 create_country_leader = {
 	name = "War Cabinet"
-	#desc = "POLITICS_KARL_RADEK_DESC"
-	#picture = "gfx/leaders/GER/GER_wilhelm_ii.dds"
+	#desc = "POLITICS_WAR_CABINET_DESC"
+	#picture = "gfx/leaders/SRE/SRE_WAR_CABINET.dds"
 	expire = "1965.1.1"
 	ideology = fascism_subtype
 }

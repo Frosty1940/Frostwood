@@ -1,18 +1,18 @@
-capital = 68
+capital = 181
 set_research_slots = 4
 
 ### Country Leaders ###
 create_country_leader = {
 	name = "Ferdinand IV"
-	#desc = "POLITICS_KARL_RADEK_DESC"
-	#picture = "gfx/leaders/GER/GER_wilhelm_ii.dds"
+	#desc = "POLITICS_FERDINAND_IV_DESC"
+	#picture = "gfx/leaders/REG/REG_FERDINAND_IV.dds"
 	expire = "1965.1.1"
 	ideology = paternal_autocrat_subtype
 }
 create_country_leader = {
 	name = "Jean Paulieno"
-	#desc = "POLITICS_KARL_RADEK_DESC"
-	#picture = "gfx/leaders/GER/GER_wilhelm_ii.dds"
+	#desc = "POLITICS_JEAN_PAULIENO_DESC"
+	#picture = "gfx/leaders/REG/REG_JEAN_PAULIENO.dds"
 	expire = "1965.1.1"
 	ideology = social_conservative_subtype
 }

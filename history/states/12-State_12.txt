@@ -2,9 +2,22 @@
 state={
 	id=12
 	name="STATE_12"
+	history = {
+		owner = REG
+		add_core_of = REG
+		add_core_of = HOR
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			arms_factory = 2
+			dockyard = 3
+			1119 = { naval_base = 7 }
+		}
+	}
 	provinces={
 		1109 1119 1885 2035 2251 2534 2908 2922 
 	}
-	manpower=0
+	manpower=161347
 	buildings_max_level_factor=1.000
+	state_category = large_city
 }

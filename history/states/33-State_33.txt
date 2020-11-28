@@ -1,9 +1,17 @@
 state={
 	id=33
 	name="STATE_33"
+	history = {
+		owner = HOR
+		add_core_of = HOR
+		buildings = {
+			infrastructure = 3
+		}
+	}
 	provinces={
 		765 1348 1598 1704 1737 1779 1916 2183 2258 2339 2373 2436 2491 2831 2891 2895 2900 2920 2938 2939 2944 2967 2970 
 	}
-	manpower=0
+	manpower=6537
 	buildings_max_level_factor=1.000
+	state_category = rural
 }

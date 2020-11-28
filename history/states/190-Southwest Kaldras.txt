@@ -1,0 +1,17 @@
+state={
+	id=190
+	name="STATE_190"
+	history={
+		owner = REG
+		add_core_of = REG
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		467 518 956 1209 1334 1352 1429 1652 2122 2546 2564 2881 2914 2918 2933 2971 
+	}
+	manpower=3571
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -7,7 +7,7 @@ create_faction = internationale
 create_country_leader = {
 	name = "Karl Radek"
 	desc = "POLITICS_KARL_RADEK_DESC"
-	#picture = "gfx/leaders/SRE/Portrait_SRE_.tga"
+	#picture = "gfx/leaders/NOR/Portrait_NOR_KARL_RADEK.tga"
 	expire = "1965.1.1"
 	ideology = communist_subtype
 }

@@ -1,0 +1,18 @@
+state={
+	id=192
+	name="STATE_192"
+	history={
+		owner = REG
+		add_core_of = REG
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	provinces={
+		216 578 1321 2811 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable = yes
+}

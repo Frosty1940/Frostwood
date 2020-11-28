@@ -1,12 +1,12 @@
-capital = 68
-set_research_slots = 4
+capital = 116
+set_research_slots = 2
 
 ### Country Leaders ###
 create_country_leader = {
 =======
-	name = "Sultan"
-	#desc = "POLITICS_KARL_RADEK_DESC"
-	#picture = "gfx/leaders/GER/GER_wilhelm_ii.dds"
+	name = "Sultan Mahmatd III"
+	#desc = "POLITICS_SULTAN_MAHMATD_III_DESC"
+	#picture = "gfx/leaders/PER/PER_SULTAN_MAHMATD_III.dds"
 	expire = "1965.1.1"
 	ideology = paternal_autocrat_subtype
 }

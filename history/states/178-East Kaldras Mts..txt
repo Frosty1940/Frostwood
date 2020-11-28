@@ -1,9 +1,19 @@
 state={
 	id=178
 	name="STATE_178"
+	history = {
+		owner = HOR
+		add_core_of = HOR
+		add_core_of = REG
+		buildings = {
+			infrastructure = 0
+		}
+	}
 	provinces={
 		67 240 541 674 1086 1144 1207 1303 1669 1670 1771 2003 2065 2184 2252 2755 2759 2769 2771 2781 2785 2794 2818 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	state_category = wasteland
+	impassable = yes
 }

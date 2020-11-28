@@ -2,18 +2,22 @@
 state={
 	id=121
 	name="STATE_121"
-	history = {
+
+	history={
 		owner = REG
 		add_core_of = REG
 		buildings = {
 			infrastructure = 0
+
 		}
+
 	}
+
 	provinces={
-		63 69 85 197 260 313 345 352 445 477 538 647 820 844 975 1059 1300 1823 1915 1935 2022 2158 2507 2530 2727 2746 2775 
+		63 69 197 260 313 352 445 477 538 647 844 975 1300 1823 2022 2158 2507 2727 2746 2775 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
-	state_category = wasteland
+	state_category=wasteland
 	impassable = yes
 }

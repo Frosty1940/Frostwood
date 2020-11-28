@@ -1,9 +1,19 @@
 state={
 	id=107
 	name="STATE_107"
+	history = {
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
 	provinces={
 		204 370 414 500 607 812 1272 1405 1755 2180 3396 3404 
 	}
-	manpower=0
+	manpower=6347
 	buildings_max_level_factor=1.000
+	state_category = pastoral
 }

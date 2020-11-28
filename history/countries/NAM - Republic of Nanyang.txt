@@ -1,11 +1,11 @@
-capital = 1
+capital = 134
 set_research_slots = 3
 
 ### Country Leaders ###
 create_country_leader = {
-	name = "Han"
-	desc = "POLITICS_KARL_RADEK_DESC"
-	#picture = "gfx/leaders/SRE/Portrait_SRE_.tga"
+	name = "Han Je-zhong"
+	desc = "POLITICS_HAN_JEZHONG_DESC"
+	#picture = "gfx/leaders/NAM/Portrait_NAM_HAN_JEZHONG.tga"
 	expire = "1965.1.1"
 	ideology = social_democrat_subtype
 }

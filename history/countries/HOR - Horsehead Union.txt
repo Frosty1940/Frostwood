@@ -1,0 +1,35 @@
+capital = 44
+set_research_slots = 4
+
+### Country Leaders ###
+create_country_leader = {
+	name = "Yoki I"
+	desc = "POLITICS_YOKI_I_DESC"
+	#picture = "gfx/leaders/HOR/Portrait_HOR_.tga"
+	expire = "1965.1.1"
+	ideology = social_liberal_subtype
+}
+
+set_politics = {
+	ruling_party = social_liberal
+	last_election = "1910.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	communist = 1
+	socialist = 3
+	social_democrat = 2
+	social_liberal = 38
+	social_conservative = 19
+	authoritarian_democrat = 27
+	paternal_autocrat = 9
+	fascism = 1
+}
+
+add_ideas = {
+	limited_conscription
+	partial_economic_mobilisation
+	low_economic_mobilisation
+}

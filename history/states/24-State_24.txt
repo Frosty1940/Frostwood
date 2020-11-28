@@ -2,9 +2,19 @@
 state={
 	id=24
 	name="STATE_24"
+	history = {
+		owner = HOR
+		add_core_of = HOR
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 3
+		}
+	}
 	provinces={
 		132 249 599 1011 1022 1040 1091 1178 1246 1496 1588 1641 1647 2375 2391 2509 2510 2542 2577 2796 2805 2812 2816 2819 2828 2837 2838 2855 2857 2871 2872 2884 2890 2894 
 	}
-	manpower=0
+	manpower=132471
 	buildings_max_level_factor=1.000
+	state_category = city
 }
