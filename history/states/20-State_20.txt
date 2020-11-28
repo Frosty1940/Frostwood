@@ -1,9 +1,20 @@
+
 state={
 	id=20
 	name="STATE_20"
+	history = {
+		owner = REG
+		add_core_of = REG
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
 	provinces={
-		133 312 1172 1886 2734 2737 2739 
+		133 162 207 283 312 1172 1886 2734 2737 2739 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	state_category = town
 }

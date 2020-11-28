@@ -1,9 +1,22 @@
+
 state={
 	id=8
 	name="STATE_8"
-	provinces={
-		4 104 162 207 283 502 520 692 700 752 959 1076 1247 1257 1295 1515 1537 1580 1653 1714 2105 2165 2221 2315 2347 2417 2712 2713 2716 2717 2720 2721 2723 2725 2731 2736 2738 2743 2745 2752 
+	history = {
+		owner = REG
+		add_core_of = REG
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 5
+			1580 = { naval_base = 7 }
+		}
 	}
-	manpower=0
+	provinces={
+		1580 1714 2712 2713 2716 2717 
+	}
+	manpower=121545
 	buildings_max_level_factor=1.000
+	state_category = large_city
 }

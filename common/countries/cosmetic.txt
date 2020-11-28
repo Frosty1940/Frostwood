@@ -62,3 +62,8 @@ ISE_SRE_military_occupation = {
 	color = rgb { 69 79 48 }
 	color_ui = rgb { 69 79 48 }
 }
+
+REG_TEM_empire = {
+	color = rgb { 111 45 84 }
+	color_ui = rgb { 111 45 84 }
+}

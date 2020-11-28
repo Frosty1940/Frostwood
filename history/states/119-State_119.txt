@@ -1,9 +1,20 @@
 state={
 	id=119
 	name="STATE_119"
+	history = {
+		owner = TEM
+		add_core_of = LID
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			3428 = { naval_base = 3 }
+		}
+	}
 	provinces={
 		73 413 443 540 717 796 841 923 1002 1034 1298 1488 1602 1812 1876 3424 3428 3433 3435 3452 
 	}
-	manpower=0
+	manpower=37321
 	buildings_max_level_factor=1.000
+	state_category = city
 }

@@ -1,0 +1,21 @@
+state={
+	id=181
+	name="STATE_181"
+	history = {
+		owner = REG
+		add_core_of = REG
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+			arms_factory = 4
+			dockyard = 3
+			2720 = { naval_base = 7 }
+		}
+	}
+	provinces={
+		104 520 692 700 1076 1295 1515 1537 1653 2720 2723 2725 
+	}
+	manpower=357413
+	buildings_max_level_factor=1.000
+	state_category = large_city
+}

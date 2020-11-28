@@ -1,9 +1,18 @@
+
 state={
 	id=9
 	name="STATE_9"
-	provinces={
-		604 1985 2714 
+	history = {
+		owner = REG
+		add_core_of = REG
+		buildings = {
+			infrastructure = 2
+		}
 	}
-	manpower=0
+	provinces={
+		44 165 604 655 709 1539 1894 1985 2714 2718 2719 2724 2726 
+	}
+	manpower=3324
 	buildings_max_level_factor=1.000
+	state_category = large_town
 }

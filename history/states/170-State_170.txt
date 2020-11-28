@@ -2,9 +2,17 @@
 state={
 	id=170
 	name="STATE_170"
+	history = {
+		owner = TEM
+		buildings = {
+			infrastructure = 0
+		}
+	}
 	provinces={
 		209 3409 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	state_category = wasteland
+	impassable = yes
 }

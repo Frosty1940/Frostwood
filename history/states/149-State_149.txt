@@ -2,9 +2,17 @@
 state={
 	id=149
 	name="STATE_149"
-	provinces={
-		56 564 651 747 1867 2729 
+	history = {
+		owner = REG
+		add_core_of = REG
+		buildings = {
+			infrastructure = 4
+		}
 	}
-	manpower=0
+	provinces={
+		56 564 651 747 752 1867 2105 2721 2729 
+	}
+	manpower=1324
 	buildings_max_level_factor=1.000
+	state_category = pastoral
 }

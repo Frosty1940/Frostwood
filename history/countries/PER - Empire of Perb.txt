@@ -1,0 +1,36 @@
+capital = 68
+set_research_slots = 4
+
+### Country Leaders ###
+create_country_leader = {
+=======
+	name = "Sultan"
+	#desc = "POLITICS_KARL_RADEK_DESC"
+	#picture = "gfx/leaders/GER/GER_wilhelm_ii.dds"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_subtype
+}
+
+set_politics = {
+	ruling_party = paternal_autocrat
+	last_election = "1910.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	communist = 0
+	socialist = 0
+	social_democrat = 0
+	social_liberal = 3
+	social_conservative = 5
+	authoritarian_democrat = 14
+	paternal_autocrat = 68
+	fascism = 10
+}
+
+add_ideas = {
+	limited_conscription
+	partial_economic_mobilisation
+	low_economic_mobilisation
+}

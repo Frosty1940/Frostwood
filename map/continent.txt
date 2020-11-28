@@ -1,3 +1,6 @@
 continents = {
 	tempore
+	lidderdonia
+	nanyang
+	nordland
 }

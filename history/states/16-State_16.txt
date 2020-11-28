@@ -1,9 +1,19 @@
 state={
 	id=16
 	name="STATE_16"
+	history = {
+		owner = REG
+		add_core_of = REG
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 2
+		}
+	}
 	provinces={
 		2584 
 	}
-	manpower=0
+	manpower=16874
 	buildings_max_level_factor=1.000
+	state_category = large_town
 }

@@ -5,11 +5,11 @@ create_faction = axis
 
 ### Country Leaders ###
 create_country_leader = {
-	name = "Elf"
+	name = "War Cabinet"
 	#desc = "POLITICS_KARL_RADEK_DESC"
 	#picture = "gfx/leaders/GER/GER_wilhelm_ii.dds"
 	expire = "1965.1.1"
-	ideology = nazism
+	ideology = fascism_subtype
 }
 
 set_politics = {
@@ -20,10 +20,14 @@ set_politics = {
 }
 
 set_popularities = {
+	communist = 0
+	socialist = 0
+	social_democrat = 0
+	social_liberal = 0
+	social_conservative = 0
+	authoritarian_democrat = 0
+	paternal_autocrat = 0
 	fascism = 100
-	communism = 0
-	democratic = 0
-	neutrality = 0
 }
 
 add_ideas = {

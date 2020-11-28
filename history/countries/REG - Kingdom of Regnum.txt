@@ -3,25 +3,36 @@ set_research_slots = 4
 
 ### Country Leaders ###
 create_country_leader = {
+	name = "Ferdinand IV"
+	#desc = "POLITICS_KARL_RADEK_DESC"
+	#picture = "gfx/leaders/GER/GER_wilhelm_ii.dds"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_subtype
+}
+create_country_leader = {
 	name = "Jean Paulieno"
 	#desc = "POLITICS_KARL_RADEK_DESC"
 	#picture = "gfx/leaders/GER/GER_wilhelm_ii.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = social_conservative_subtype
 }
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = paternal_autocrat
 	last_election = "1910.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 set_popularities = {
-	fascism = 0
-	communism = 0
-	democratic = 100
-	neutrality = 0
+	communist = 4
+	socialist = 10
+	social_democrat = 10
+	social_liberal = 14
+	social_conservative = 20
+	authoritarian_democrat = 17
+	paternal_autocrat = 13
+	fascism = 12
 }
 
 add_ideas = {

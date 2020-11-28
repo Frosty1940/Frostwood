@@ -1,7 +1,7 @@
 ﻿capital = 1
 set_research_slots = 4
 
-create_faction = "Internationale"
+create_faction = internationale
 
 ### Country Leaders ###
 create_country_leader = {
@@ -9,21 +9,25 @@ create_country_leader = {
 	desc = "POLITICS_KARL_RADEK_DESC"
 	#picture = "gfx/leaders/SRE/Portrait_SRE_.tga"
 	expire = "1965.1.1"
-	ideology = leninism
+	ideology = communist_subtype
 }
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = communist
 	last_election = "1910.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	fascism = 0
-	communism = 100
-	democratic = 0
-	neutrality = 0
+	communist = 50
+	socialist = 20
+	social_democrat = 13
+	social_liberal = 3
+	social_conservative = 6
+	authoritarian_democrat = 5
+	paternal_autocrat = 0
+	fascism = 3
 }
 
 add_ideas = {

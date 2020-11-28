@@ -1,9 +1,20 @@
 state={
 	id=34
 	name="STATE_34"
+	history = {
+		owner = REG
+		add_core_of = REG
+		add_core_of = TEM
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 2
+		}
+	}
 	provinces={
 		121 603 805 1307 1363 1425 1692 1727 1736 1769 1944 1955 2132 2218 2229 2275 2314 2440 2600 2603 2697 2830 2843 2850 2851 2863 2864 2870 2873 2877 2885 2887 2899 2901 2909 2910 2916 2921 2924 2930 2945 2946 2954 2958 2965 2973 
 	}
-	manpower=0
+	manpower=23417
 	buildings_max_level_factor=1.000
+	state_category = city
 }

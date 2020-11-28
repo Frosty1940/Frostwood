@@ -1,9 +1,5 @@
 #reload countrycolors
 
-TST = {
-	color = rgb { 57 113 228 }
-	color_ui = rgb { 74 147 255 }
-}
 REG = {
 	color = rgb { 135 155 195 }
 	color_ui = rgb { 135 155 195 }
@@ -29,8 +25,8 @@ TEM = {
 	color_ui = rgb { 184 57 57 }
 }
 NAM = {
-	color = rgb { 241 161 161 }
-	color_ui = rgb { 241 161 161 }
+	color = rgb { 247 106 106 }
+	color_ui = rgb { 247 106 106 }
 }
 RAM = {
 	color = rgb { 245 234 229 }
