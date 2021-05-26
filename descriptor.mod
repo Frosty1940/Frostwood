@@ -21,6 +21,3 @@ tags={
 picture=""
 version="alpha"
 supported_version="1.10.*"
-# USE THIS LINE WHEN YOU PUT THIS MOD ON YOUR COMPUTER FIRST TIME
-# THE DIRECTORY IS NOT FORCED TO PLACE IN HEARTS OF IRON IV MODS, BUT YOU SHOULD ADAPT THIS LINE AS YOUR MOD DICRETORY
-#path="C:/Users/[USERNAME]/Documents/Paradox Interactive/Hearts of Iron IV/mod/Frostwood"
