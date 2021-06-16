@@ -18,6 +18,5 @@ tags={
 	"Map"
 	"Utilities"
 }
-picture=""
 version="alpha"
 supported_version="1.10.*"
